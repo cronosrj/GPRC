@@ -1,0 +1,12 @@
+D:\Programação\GPRC\GrpcCommons\GrpcCommons\bin\Debug\net8.0\GrpcCommons.deps.json
+D:\Programação\GPRC\GrpcCommons\GrpcCommons\bin\Debug\net8.0\GrpcCommons.dll
+D:\Programação\GPRC\GrpcCommons\GrpcCommons\bin\Debug\net8.0\GrpcCommons.pdb
+D:\Programação\GPRC\GrpcCommons\GrpcCommons\obj\Debug\net8.0\GrpcCommons.csproj.AssemblyReference.cache
+D:\Programação\GPRC\GrpcCommons\GrpcCommons\obj\Debug\net8.0\GrpcCommons.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\GPRC\GrpcCommons\GrpcCommons\obj\Debug\net8.0\GrpcCommons.AssemblyInfoInputs.cache
+D:\Programação\GPRC\GrpcCommons\GrpcCommons\obj\Debug\net8.0\GrpcCommons.AssemblyInfo.cs
+D:\Programação\GPRC\GrpcCommons\GrpcCommons\obj\Debug\net8.0\GrpcCommons.csproj.CoreCompileInputs.cache
+D:\Programação\GPRC\GrpcCommons\GrpcCommons\obj\Debug\net8.0\GrpcCommons.dll
+D:\Programação\GPRC\GrpcCommons\GrpcCommons\obj\Debug\net8.0\refint\GrpcCommons.dll
+D:\Programação\GPRC\GrpcCommons\GrpcCommons\obj\Debug\net8.0\GrpcCommons.pdb
+D:\Programação\GPRC\GrpcCommons\GrpcCommons\obj\Debug\net8.0\ref\GrpcCommons.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dP6HJnhIBRn17h9ZlUKvubktuYQ0ApbeaDizvDEtPDA=",
+  "Source": "BalanceClientApi",
+  "BasePath": "_content/BalanceClientApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
